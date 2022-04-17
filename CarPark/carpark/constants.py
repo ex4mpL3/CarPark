@@ -1,0 +1,1 @@
+VALID_WITH_DRIVERS_VALUES = ('yes', 'no')
