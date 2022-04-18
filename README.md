@@ -7,8 +7,7 @@ As an example, developed an API for a fleet of cars with drivers.
 2. Working with the database should be moved to the repository, in order to avoid overlapping modules and creating confusion
 + I know all this, but due to lack of time I did not have time to do it as it should.
 
-## Endpoints
-Endpoints have been created for such operations:
+## Support operations
 
 ### Driver:
 + GET /drivers/driver/ - output of the list of drivers
